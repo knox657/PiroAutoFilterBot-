@@ -30,15 +30,15 @@ BOT_START_TIME = time()
 
 # Bot images & videos
 PICS = (environ.get('PICS', 'https://telegra.ph/file/9d8f20e07b82d4f2bed98.jpg https://telegra.ph/file/2a4e20d8c5e6bcf33ff03.jpg')).split()
-REQ_PICS = (environ.get('REQ_PICS', 'https://graph.org/file/5cb80fa6096997b7226b3.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/0593a3103ba1b9a5855bf.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/72dff2b65352ba85d0a34.mp4")
+REQ_PICS = (environ.get('REQ_PICS', 'https://graph.org/file/28e95283ae55c02789747.jpg https://graph.org/file/4fa9dcce91f8dd9c3dfaf.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/9d8f20e07b82d4f2bed98.jpg https://telegra.ph/file/2a4e20d8c5e6bcf33ff03.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/28e95283ae55c02789747.jpg")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/2a888a370f479f4338f7c.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2034654684').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '2034654684').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL')
 auth_grp = environ.get('AUTH_GROUP')
