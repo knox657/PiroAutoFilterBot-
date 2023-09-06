@@ -3,7 +3,7 @@ class script(object):
 
 <b><u>𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖡𝗈𝗍 😈 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖬𝖾 𝖠𝗌 𝖠 𝖠𝗎𝗍𝗈-𝖿𝗂𝗅𝗍𝖾𝗋 𝗂𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉</u></b>
 
-<i>🛑If Movie not found🛑, search here👉 https://t.me/+nNxrEiZPumNlMjBl,if again not found check spelling🤓🤪</i>
+<i>🛑If Movie not found🛑, search here👇👇👇👇</i>
 
 🙋🏻‍♂️ ᴍᴏᴠɪᴇs group😈 https://t.me/+nNxrEiZPumNlMjBl
 
