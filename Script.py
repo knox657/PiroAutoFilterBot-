@@ -3,7 +3,7 @@ class script(object):
 
 <b><u>𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖡𝗈𝗍 😈 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖬𝖾 𝖠𝗌 𝖠 𝖠𝗎𝗍𝗈-𝖿𝗂𝗅𝗍𝖾𝗋 𝗂𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉</u></b>
 
-<i>If Movie not found, search here👉 https://t.me/+ylvI8ZZcge80MWRl,if again not found check spelling🤓🤪</i>
+<i>🛑If Movie not found🛑, search here👉 https://t.me/+nNxrEiZPumNlMjBl,if again not found check spelling🤓🤪</i>
 
 🙋🏻‍♂️ ᴍᴏᴠɪᴇs group😈 https://t.me/+nNxrEiZPumNlMjBl
 
@@ -237,7 +237,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /plink - <code>Jᴜsᴛ ʟɪᴋᴇ /link, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇ ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴ.</code>"""
 
     RESTART_TXT = """
-<b>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 !</b>
+<b>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 psyco !</b>
 
 📅 𝖣𝖺𝗍𝖾 : <code>{}</code>
 ⏰ 𝖳𝗂𝗆𝖾 : <code>{}</code>
